@@ -820,17 +820,22 @@
 	{
 		position: relative;
 		margin: 0;
-		background-image:			url('images/overlay.png'),			url('../images/631.jpg');
-		background-size:			auto,								cover;
-		background-position:		top left,							center center;
-		background-repeat:			repeat,								no-repeat;
-		padding: 14em 0 14em 0;
-		text-align: center;
-		color: #fff;
+		background-image:			url('../images/631.jpg');
+		background-size:			cover;
+		background-position:		center center;
+		background-repeat:			no-repeat;
 	}
 	
+		#header > img
+			{
+				width: 6em;
+				padding-left: 2em;
+				padding-top: 2em;
+			}
+
 		#header header
 		{
+			text-align: center;
 		}
 		
 			#header header h1

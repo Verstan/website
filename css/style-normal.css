@@ -27,7 +27,14 @@
 
 	#header
 	{
-		padding: 12em 0 12em 0;
+		padding: 0 0 0 0;
+	}
+
+	#header img
+	{
+		width: 6em;
+		padding-left: 2em;
+		padding-top: 2em;
 	}
 
 /*********************************************************************************/

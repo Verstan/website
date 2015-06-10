@@ -72,12 +72,19 @@
 
 	#header
 	{
-		padding: 6em 20px 6em 20px;
+		padding: 0 0 0 0;
+	}
+
+	#header img
+	{
+		width: 5em;
+		padding-left: 2em;
+		padding-top: 2em;
 	}
 	
 		#header > header
 		{
-			padding: 0 1em 0 1em;
+			padding: 4em 1em 6em 1em;
 		}
 	
 /*********************************************************************************/
